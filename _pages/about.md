@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Assistant Professor at the Digital Design Department, IT University of Copenhagen.
 
 profile:
   align: right
@@ -16,8 +16,6 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-
-I am an Assistant Professor at the Digital Design Department at the IT University of Copenhagen.
 
 My research focuses on information visualization and human-computer interaction. I am interested in supporting people in understanding, making sense of, and discussing data in face-to-face and online contexts, for example supported by large or multiple displays and social media.
 
