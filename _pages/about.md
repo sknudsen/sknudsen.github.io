@@ -6,19 +6,22 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 081021 SK_1-crop.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>4D22</p>
+    <p>Rued Langgaards Vej 7</p>
+    <p>DK-2300 Copenhagen S, Denmark</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Assistant Professor at the Digital Design Department at the IT University of Copenhagen.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on information visualization and human-computer interaction. I am interested in supporting people in understanding, making sense of, and discussing data in face-to-face and online contexts, for example supported by large or multiple displays and social media.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a Marie Curie alumni. In VIVIR, my Marie Curie Postdoctoral project, I worked with many excellent people, including
+* Drs. Sheelagh Carpendale and Wesley Willett at the Interactions Lab at Department of Computer Science, University of Calgary, Alberta, Canada.
+* Dr. Kasper Hornbæk in the Human-Centered Computing group at Department of Computer Science, University of Copenhagen.
+* Drs. Hude Quan and Catherine Eastwood at the Centre for Health Informatics., University of Calgary, Alberta, Canada.
