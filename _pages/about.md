@@ -6,11 +6,11 @@ description: Assistant Professor at the Digital Design Department, IT University
 
 profile:
   align: right
-  image: 081021 SK_1-crop.jpg
-  address: >
-    <p>4D22</p>
-    <p>Rued Langgaards Vej 7</p>
-    <p>DK-2300 Copenhagen S, Denmark</p>
+  image: 081021 SK_1-crop_more.jpg
+#  address: >
+#    <p>4D22</p>
+#    <p>Rued Langgaards Vej 7</p>
+#    <p>DK-2300 Copenhagen S, Denmark</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
