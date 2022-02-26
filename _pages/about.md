@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 description: Assistant Professor at the Digital Design Department, IT University of Copenhagen.
+order: 10
 
 profile:
   align: right
