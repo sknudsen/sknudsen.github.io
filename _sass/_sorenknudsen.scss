@@ -4,6 +4,17 @@ ul {
 
 $table-cell-padding-sm:   0;
 
+//
+// Condensed table w/ half padding
+//
+
+.table-sm {
+  th,
+  td {
+    padding: $table-cell-padding-sm;
+  }
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: Oswald, sans-serif;
   text-transform: uppercase;
