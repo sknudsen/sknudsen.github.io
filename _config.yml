@@ -4,7 +4,7 @@
 
 title: Søren Knudsen, PhD, MSc Eng.
 first_name: Søren
-middle_name: 
+middle_name:
 last_name: Knudsen
 email: soekn@itu.dk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -167,7 +167,7 @@ github: [metadata]
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them). 
+  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
   layouts:
     year: archive-year
     tag: archive-tag
@@ -191,18 +191,20 @@ scholar:
 
   source: /_bibliography/
   bibliography: papers.bib
-  bibliography_template: bib
+  bibliography_template: bibtex
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
   bibtex_filters: [latex, smallcaps, superscript]
 
+  repository: /assets/publications/
+
   replace_strings: true
   join_strings: true
 
   details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
+  details_layout: bibtex-details.html
+  details_link: ""
 
   query: "@*"
 
