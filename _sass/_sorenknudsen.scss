@@ -2,7 +2,7 @@ ul {
   list-style-type: square;
 }
 
-$table-cell-padding-sm:   0;
+// $table-cell-padding-sm:   0;
 
 //
 // Condensed table w/ half padding
@@ -11,11 +11,22 @@ $table-cell-padding-sm:   0;
 .table-sm {
   th,
   td {
-    padding: $table-cell-padding-sm;
+    padding-left: 0;
   }
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: Oswald, sans-serif;
   text-transform: uppercase;
+}
+
+.font-weight-bold {
+    font-weight: 600!important;
+}
+
+.profile {
+  img {
+    padding: 5px;
+    padding-bottom: 10px;
+  }
 }

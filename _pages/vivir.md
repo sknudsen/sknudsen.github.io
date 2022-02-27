@@ -2,14 +2,12 @@
 layout: page
 permalink: /vivir/
 title: vivir
-description: VIVIR: VIsualizing VIew Relations — VIsual representations of VIew Relations to support effective data analysis on large and high-resolution displays. 
+description: VIVIR — VIsualizing VIew Relations — VIsual representations of VIew Relations to support effective data analysis on large and high-resolution displays.
 nav: false
 order: 50
 ---
 
-VIVIR was a Postdoctoral Fellowship project supported by the Marie Skłodowska-Curie Actions (MSCA) from October 1, 2017 to December 31, 2021. Specifically, I was supported by the Individual Fellowship — Global Fellowships programme. 
-
-The fellowship was active for more than four years due to a number of factors, such as paternity leave, COVID-19, and the timing of an international relocation of my family of five.
+VIVIR was a Postdoctoral Fellowship project supported by the Marie Skłodowska-Curie Actions (MSCA) from October 1, 2017 to December 31, 2021. Specifically, I was supported by the Individual Fellowship — Global Fellowships programme. The fellowship was active for more than four years due to a number of factors, such as paternity leave, COVID-19, and the timing of an international relocation of my family of five.
 
 In VIVIR, I conducted state-of-the-art research on supporting collaborative face-to-face data analysis, motivated by the increasing need for interdisciplinary teams to collaborate on understanding and analyzing data. Additionally, as the scale and complexity of data increase, so does the demand for data-based insights and decision-making.
 
