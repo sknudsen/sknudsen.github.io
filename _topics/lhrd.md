@@ -1,8 +1,8 @@
 ---
 layout: page
 title: large high-resolution displays
-description: Much of my research deals with visualizations on large displays. With large displays, it is possible to show one large visualization, or alternatively, many smaller visualization views. 
-img: assets/img/knudsen2015how-touch-vis-display-min.jpg
+description: Much of my research deals with visualizations on large displays. With large displays, it is possible to show one large visualization, or alternatively, many smaller visualization views.
+img: assets/img/topics/large-high-resolution-displays-square.png
 importance: 2
 ---
 

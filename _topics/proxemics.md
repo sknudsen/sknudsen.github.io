@@ -2,7 +2,7 @@
 layout: page
 title: proxemics
 description: A specific topic of research on intereaction has to do with proxemic inteaction, which is particularly relevant to consider in the context of large displays.
-img: assets/img/knudsen2015how-touch-vis-display-min.jpg
+img: assets/img/topics/proxemics.png
 importance: 4
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: multiple views
 description: The notion of *Multiple Views* centers on the idea of showing data in separate views to allow people to see different parts of a data set separately, see the same data in different representations, or to let them lay out views manually to make sense of them, e.g., like people naturally do with documents on a table.
-img: assets/img/knudsen2015how-touch-vis-display-min.jpg
+img: assets/img/topics/multiple-views-square.png
 importance: 1
 ---
 

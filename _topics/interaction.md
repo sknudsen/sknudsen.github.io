@@ -2,7 +2,7 @@
 layout: page
 title: interaction
 description: Much of my research deals with interactive visualizations and particularly on interaction beyond desktop computing.
-img: assets/img/knudsen2015how-touch-vis-display-min.jpg
+img: assets/img/topics/interaction.jpg
 importance: 3
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: domain studies
 description: I base many of my studies on working with people from different domains, where the interesting questions related to visualization appears in the intersection.
-img: assets/img/knudsen2015how-touch-vis-display-min.jpg
+img: assets/img/topics/domain-studies.jpg
 importance: 5
 ---
 
