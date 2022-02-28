@@ -2,7 +2,7 @@
 layout: post
 title: methodology
 description: The approach to research is an important element of all research and I am happy to be part of a research community that have a strong focus on methodology, for example evidenced by strong theoretical contributions and recurring workshops and conferences on methodology (such as BELIV).
-img: assets/img/topics/method.jpg
+img: assets/img/topics/methodology.gif
 importance: 6
 ---
 
