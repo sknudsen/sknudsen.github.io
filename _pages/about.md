@@ -22,11 +22,12 @@ My research focuses on information visualization and human-computer interaction.
 
 I am a Marie Curie alumni. In [my Marie Curie Postdoctoral project VIVIR](vivir), I conducted state-of-the-art research on supporting collaborative face-to-face data analysis. My research was motivated by two main aspects of contemporary data work. First, we see an increasing demand for data-based insights and decision-making across all levels and sectors of society. Second, the increasing scale and complexity of data increases the need for interdisciplinary teams to collaborate on understanding and analysing data. Thus, it is often crucial for people with diverse backgrounds to work together to gain data-based insights. In VIVIR, I focused on healthcare data analysis. This is a great domain for approaching these issues because there is a real, tangible, and acknowledged need for interdisciplinary collaborations.
 
-I worked with many excellent people, including
-* Drs. Sheelagh Carpendale and Wesley Willett at the Interactions Lab at Department of Computer Science, University of Calgary, Alberta, Canada.
+I have worked with many excellent people during my academic career and owe a great deal of success to my valuable interactions with them. I had not known Professor Sheelagh Carpendaly for many months before I realised the profound impact she could have on my sense of academia. For example, how she has managed to create one of the most vibrant research labs at the intersection of human-computer interaction and information visualization through a human-first attitude to her work with students and considering the possibility of founding collaborative research labs on the basis of democratic values. I credit much of my success to meeting and learning from her. 
+
+<!-- * Drs. Sheelagh Carpendale and Wesley Willett at the Interactions Lab at Department of Computer Science, University of Calgary, Alberta, Canada.
 * Dr. Kasper Hornbæk in the Human-Centered Computing group at Department of Computer Science, University of Copenhagen.
 * Drs. Hude Quan and Catherine Eastwood at the Centre for Health Informatics., University of Calgary, Alberta, Canada.
-
+ -->
 <div class="news">
   <h4>Short bio</h4>
     <div class="table-responsive">
