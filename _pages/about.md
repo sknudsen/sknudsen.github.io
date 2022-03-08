@@ -22,9 +22,10 @@ My research focuses on information visualization and human-computer interaction.
 
 I am a Marie Curie alumni. In [my Marie Curie Postdoctoral project VIVIR](vivir), I conducted state-of-the-art research on supporting collaborative face-to-face data analysis. My research was motivated by two main aspects of contemporary data work. First, we see an increasing demand for data-based insights and decision-making across all levels and sectors of society. Second, the increasing scale and complexity of data increases the need for interdisciplinary teams to collaborate on understanding and analysing data. Thus, it is often crucial for people with diverse backgrounds to work together to gain data-based insights. In VIVIR, I focused on healthcare data analysis. This is a great domain for approaching these issues because there is a real, tangible, and acknowledged need for interdisciplinary collaborations.
 
-I have worked with many excellent people during my academic career and owe a great deal of success to my valuable interactions with them. I have enjoyed insightful discussions with [Sheelagh Carpendale](http://sheelaghcarpendale.ca/) about nurturing great research environments based on humaninistic values. The visualization project with [Wesley Willett](http://www.wjwillett.net/) and Sheelagh Carpendale in collaboration with the Canada Energy Regulator led also led to many discussions on visualization design process. [Kasper Hornbæk's](http://www.kasperhornbaek.dk/) strong theory-based perspective on human-computer interaction has been a huge inspiration. Lastly, [Hude Quan](https://cumming.ucalgary.ca/node/3135) and [Catherine Eastwood](https://libin.ucalgary.ca/node/482) at the [Centre for Health Informatics](https://cumming.ucalgary.ca/centres/centre-health-informatics) gave me another home both physically (in the research center) and metaphorically (in the health sciences). I hope to continue collaborating with these and other great leaders in research.
+## Students and Collaborators
+I have worked with many excellent people during my academic career. My students are a constant source of inspiration. They often push me in new and exciting directions and I cannot imagine what work would be without them. I have enjoyed insightful discussions with [Sheelagh Carpendale](http://sheelaghcarpendale.ca/) about nurturing great research environments based on humaninistic, democratic values and I owe a great deal of success to my valuable interactions with her. The visualization project with [Wesley Willett](http://www.wjwillett.net/) and Sheelagh Carpendale in collaboration with the Canada Energy Regulator led also led to many discussions on visualization design process. [Kasper Hornbæk's](http://www.kasperhornbaek.dk/) strong theory-based perspective on human-computer interaction has been a huge inspiration. Lastly, [Hude Quan](https://cumming.ucalgary.ca/node/3135) and [Catherine Eastwood](https://libin.ucalgary.ca/node/482) at the [Centre for Health Informatics](https://cumming.ucalgary.ca/centres/centre-health-informatics) gave me another home both physically (in the research center) and metaphorically (in the health sciences). I hope to continue collaborating with these and other great leaders in research.
 
-<div class="news">
+<!-- <div class="news">
   <h4>Short bio</h4>
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
@@ -46,4 +47,4 @@ I have worked with many excellent people during my academic career and owe a gre
       </tr>
       </table>
     </div>
-</div>
+</div> -->
