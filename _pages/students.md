@@ -9,7 +9,10 @@ order: 50
 
 Please contact me if you're interested in working with me. I enjoy working with students across all levels and am always looking for students to join our team.
 
-## Currently looking for...
+## Current Bachelor or Masters students
+For inspiration for course projects (7.5 ECTS), Bachelor thesis projects (15 ETCS), and Master thesis projects (30 ECTS), please see [project inspiration](https://github.itu.dk/pages/soekn/sorenknudsen.com-restricted/project-inspiration) (use your ITU credentials to gain access).
+
+## Potential PhD students
 We are currently looking for PhD students to respond to our open call for ITU scholarships. I have proposed three projects with colleagues from the digital design department and the computer science department.
 
 * [Data-Driven Debate for Digital Societies](data-driven-debate-for-digital-societies)  
