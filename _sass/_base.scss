@@ -431,6 +431,9 @@ footer.sticky-bottom {
       .title {
         font-weight: bolder;
       }
+      .title a {
+        color: var(--global-text-color);
+      }
       .author {
         a {
           border-bottom: 1px dashed var(--global-theme-color);

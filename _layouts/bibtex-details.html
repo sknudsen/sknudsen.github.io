@@ -246,11 +246,11 @@ layout: default
             {% if page.entry.code %}
               <a href="{{ page.entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
             {% endif %}
-            {% if page.entry.poster %}
-              {% if page.entry.poster contains '://' %}
-                <a href="{{ page.entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
+            {% if page.links['poster.pdf'] %}
+              {% if page.links['poster.pdf'] contains '://' %}
+              <a href="{{ page.links['poster.pdf'] }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
               {% else %}
-                <a href="{{ page.entry.poster | prepend: '/assets/publications/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
+              <a href="{{ page.links['poster.pdf'] | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
               {% endif %}
             {% endif %}
             {% if page.entry.slides %}
