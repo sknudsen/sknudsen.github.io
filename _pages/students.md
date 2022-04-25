@@ -2,7 +2,7 @@
 layout: page
 permalink: /students/
 title: students
-description: Information to current and potential students.
+# description: Information to current and potential students.
 nav: true
 order: 50
 ---
