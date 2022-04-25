@@ -7,7 +7,7 @@ nav: true
 order: 50
 ---
 
-Please contact me if you're interested in working with me. I enjoy working with students across all levels and am always looking for students to join our team.
+Please contact me if you're interested in working with me. I enjoy working with students across all levels and am often looking for people to join our team (BSC to Postdoc).
 
 ## Current Bachelor or Masters students
 For inspiration for course projects (7.5 ECTS), Bachelor thesis projects (15 ETCS), and Master thesis projects (30 ECTS), please see [project inspiration](https://github.itu.dk/pages/soekn/sorenknudsen.com-restricted/project-inspiration) (use your ITU credentials to gain access).
